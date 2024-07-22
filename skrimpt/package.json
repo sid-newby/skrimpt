@@ -1,0 +1,16 @@
+{
+  "name": "mp4-mov-to-webm-converter",
+  "version": "1.0.0",
+  "description": "A tool to convert .mp4 and .mov files to .webm",
+  "main": "converter.js",
+  "scripts": {
+    "start": "node converter.js"
+  },
+  "dependencies": {
+    "cli-progress": "^3.11.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {}
+}
