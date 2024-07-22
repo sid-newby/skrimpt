@@ -33,7 +33,8 @@ This tool converts .mp4 and .mov files to .webm format using Node.js and FFmpeg.
 
 ## 🍤Notes
 
-* This tool is optimized for use on a Mac M1 computer.
+* This tool is optimized for use on a Mac M1 computer. Will work on them non-metals too, likely outputting slower skrimpts. 
+* Some sample mp4s are included as an appetizer. 
 * The conversion process uses the VP9 codec for video and Opus codec for audio, which provides a good balance between quality and file size.
 * Three compression options are available: Low, Medium (recommended), and another option, we’ll call 🍤. These options affect the conversion speed and output file size.
 * Get yo skrimp, gurl! 🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤🍤
